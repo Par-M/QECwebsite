@@ -917,17 +917,6 @@ main section {
   text-align: center;
 }
 
-.person-emails {
-  margin: 0.75rem 0 0;
-  padding: 0;
-  list-style: none;
-  display: grid;
-  gap: 0.25rem;
-  font-size: 0.78rem;
-  color: var(--color-dark);
-  overflow-wrap: anywhere;
-}
-
 .person-card h3 a:hover,
 .director-head h3 a:hover,
 .coordinator-list a:hover,
